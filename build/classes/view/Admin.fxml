@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+      fx:controller="controller.AdminController"
+      alignment="center" spacing="10"
+      styleClass="root"
+      prefWidth="800.0"
+>
+<GridPane prefWidth="750" alignment="center_left" hgap="10" vgap="10" >
+
+        <HBox alignment="center_left" spacing="10" GridPane.columnIndex="0" GridPane.rowIndex="0">
+            <ImageView>
+                <image>
+                    <Image url="@movie_icon.png"/>
+                </image>
+            </ImageView>
+            <Label styleClass="h1" text="Administration Menu"/>
+        </HBox> 
+        
+        
+              
+        </GridPane>
+     <GridPane alignment="center" hgap="10" vgap="10">   
+        <Label styleClass= "h2" text="Manage Customers:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+        <Label styleClass= "h2" text="Manage Movies:" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+        <Button styleClass= "menuButton" text="View All" GridPane.columnIndex="0" GridPane.rowIndex="2" onAction="#handleViewAllCustomers"/>
+        <Button styleClass= "menuButton" text="View All" GridPane.columnIndex="1" GridPane.rowIndex="2" onAction = "#handleViewAllMovies" />
+        <Button styleClass= "menuButton" text="Add" GridPane.columnIndex="0" GridPane.rowIndex="3" onAction="#handleAddCustomer" />
+        <Button styleClass= "menuButton" text="Add" GridPane.columnIndex="1" GridPane.rowIndex="3" onAction="#handleAddMovie" />
+        <Button styleClass= "menuButton" text="Remove" GridPane.columnIndex="0" GridPane.rowIndex="4" onAction="#handleRemoveCustomer" />
+        <Button styleClass= "menuButton" text="Remove" GridPane.columnIndex="1" GridPane.rowIndex="4" onAction="#handleRemoveMovie" />
+       
+    </GridPane>
+    
+    <GridPane alignment="center">
+    <HBox alignment="center" spacing="10" GridPane.columnIndex="0" GridPane.rowIndex="3">
+            <Button styleClass= "button" text="Exit" onAction="#handleCancel" />
+        </HBox>
+    </GridPane>
+  
+    <stylesheets>
+        <URL value="@kiosk.css"/>
+    </stylesheets>
+
+</VBox>

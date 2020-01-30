@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+      fx:controller="controller.CatalogueController"
+      alignment="center" spacing="10"
+      
+      prefWidth="800.0"
+>
+
+
+    <HBox alignment="center_left" spacing="10">
+        <ImageView>
+            <image>
+                <Image url="@movie_icon.png"/>
+            </image>
+        </ImageView>
+        <Label styleClass="h1" text="Catalogue"/>
+    </HBox> 
+        
+        
+              
+        
+    <HBox spacing="10">
+        <VBox alignment="center" spacing="10">
+            <Label styleClass= "h2" text="View Movies:" />
+            <Button styleClass= "menuButton" text="All Movies" onAction = "#handleAllMovies" />
+            <Button styleClass= "menuButton" text="Available Movies" onAction = "#handleAvailableMovies" />
+            <Button styleClass= "menuButton" text="Movies by Genre" onAction = "#handleMoviesByGenre" />
+            <Button styleClass= "menuButton" text="Movies by Year" onAction = "#handleMoviesByYear" />
+        </VBox >
+        <Button  styleClass= "largeButton" wrapText = "true" text="${'Rent a\nMovie'}"  onAction = "#handleRentMovie"> </Button>
+        <Button  styleClass= "largeButton" wrapText = "true" text="${'Return a\nMovie'}" onAction = "#handleReturnMovie" ></Button>
+    </HBox>    
+    
+    <HBox alignment="center" spacing="10">
+        <Button styleClass= "button" text="Exit" onAction="#handleExit" />
+    </HBox>
+    
+    <stylesheets>
+        <URL value="@kiosk.css"/>
+    </stylesheets>
+</VBox>
