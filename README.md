@@ -24,18 +24,18 @@ Build and run the project.
 
 ![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/HomePage.png)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/Catalogue.png)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/Catalogue.png)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/HomePage.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AllMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/MovieCatalogue.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/MovieCatalogue.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderMovie.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/OrderMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderHistory.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/OrderHistory.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/AccessList.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AccessList.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/UserManagement.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/UserManagement.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/CustomerManagement.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/CustomerManagement.jpg)
