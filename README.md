@@ -1,8 +1,14 @@
 # Movie Kiosk
 
-Movie-Kiosk is a Java application for renting movies. This app is developed by using JavaFX and MVC Architecture. It uses ObservableList object to enable tracking of any changes to list of movies and customers, TableView content automatically updates whenever data changes. It handles errors and exceptions such as low balance, customer does not exist, etc. 
+Movie-Kiosk is a Java application for renting movies.
 
 This project was created for 48024 Application Programming course at UTS.
+
+## Built With
+
+- JavaFX
+- FXML
+- ObservableList
 
 ## Features
 
