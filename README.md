@@ -27,7 +27,7 @@ This project was created for 48024 Application Programming course at UTS.
 
 ![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AllMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/MovieByGenre.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/MoviesByGenre.jpg)
 
 ![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/RentMovie.jpg)
 
