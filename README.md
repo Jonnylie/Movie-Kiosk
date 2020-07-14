@@ -1,6 +1,6 @@
 # Movie Kiosk
 
-Movie-Kiosk is a Java application for renting movies.
+Movie-Kiosk is a Java application to rent movies.
 
 This project was created for 48024 Application Programming course at UTS.
 
