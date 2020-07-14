@@ -16,9 +16,8 @@ This project was created for 48024 Application Programming course at UTS.
 
 ## Setup
 
-Right click MovieKiosk project > Set as main project.
-
-Build and run the project.
+- Right click MovieKiosk project > Set as main project.
+- Build and run the project.
 
 ## Previews
 
@@ -28,14 +27,18 @@ Build and run the project.
 
 ![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AllMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/MovieCatalogue.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/MovieByGenre.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/OrderMovie.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/RentMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/OrderHistory.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/ReturnMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AccessList.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/CustomerRecord.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/UserManagement.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/TopUpAccount.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/CustomerManagement.jpg)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/FavouriteMovies.jpg)
+
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AdministrationMenu.jpg)
+
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AllCustomer.jpg)
