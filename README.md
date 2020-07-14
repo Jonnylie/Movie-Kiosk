@@ -22,9 +22,9 @@ Build and run the project.
 
 ## Previews
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/HomePage.png)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/HomePage.jpg)
 
-![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/Catalogue.png)
+![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/Catalogue.jpg)
 
 ![alt text](https://github.com/Jonnylie/Movie-Kiosk/blob/master/docs/AllMovie.jpg)
 
